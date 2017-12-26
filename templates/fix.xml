@@ -1,0 +1,16 @@
+<templateSet group="fix">
+  <template name="vh" value="private static class $content$ViewHolder extends RecyclerView.ViewHolder {&#10;&#9;private static $content$ViewHolder newInstance(ViewGroup viewGroup) {&#10;&#9;&#9;View view = FixCoreView.getScaledLayout(viewGroup.getContext(), R.layout.$res$, viewGroup);&#10;&#9;&#9;return new $content$ViewHolder(view);&#10;&#9;}&#10;&#10;&#9;private $content$ViewHolder(View itemView) {&#10;&#9;&#9;super(itemView);&#10;&#9;}&#10;&#10;&#9;private void bind() {&#10;&#10;&#9;}&#10;}" description="View Holder" toReformat="false" toShortenFQNames="true">
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="res" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="cored" value="// TODO log&#10;core.log.d(&quot;$METHOD_NAME$: &quot; + $content$);" description="Fix Log" toReformat="false" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="content" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
