@@ -13,4 +13,9 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="divider" value="&lt;View&#10;    android:layout_width=&quot;match_parent&quot;&#10;    android:layout_height=&quot;@dimen/page_content_divider_height&quot;&#10;    android:background=&quot;@color/page_content_divider&quot; /&gt;" description="view xml divider" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
 </templateSet>
