@@ -1,0 +1,11 @@
+<application>
+  <component name="TranslationSettings">
+    <option name="appId" value="3155b6e9e203338f" />
+    <option name="langFrom" value="AUTO" />
+    <option name="langTo" value="AUTO" />
+    <option name="overrideFont" value="true" />
+    <option name="phoneticFontFamily" value="Consolas" />
+    <option name="primaryFontFamily" value="Microsoft YaHei" />
+    <option name="privateKeyConfigured" value="true" />
+  </component>
+</application>
