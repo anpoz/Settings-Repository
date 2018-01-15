@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="quarter" />
+      <item value="季度" />
+      <item value="中报" />
+      <item value="年报" />
       <item value="指标" />
       <item value="解析" />
       <item value="列" />
