@@ -1,8 +1,10 @@
 <application>
   <component name="AppStorage">
     <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="CHINESE" />
+    <option name="lastTargetLanguage" value="AUTO" />
     <histories>
+      <item value="text" />
+      <item value="halt" />
       <item value="flow chart" />
       <item value="flow" />
     </histories>
