@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
-    <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="AUTO" />
     <histories>
+      <item value="identify" />
+      <item value="识别二维码" />
       <item value="周期" />
       <item value="candidates" />
       <item value="truename" />
