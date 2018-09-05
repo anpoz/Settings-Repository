@@ -219,7 +219,9 @@
       </value>
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
-      <value />
+      <value>
+        <option name="BACKGROUND" value="feff83" />
+      </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value />
@@ -298,7 +300,9 @@
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
-      <value />
+      <value>
+        <option name="BACKGROUND" value="feff83" />
+      </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
