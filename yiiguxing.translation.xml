@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mosaic" />
       <item value="summary" />
       <item value="identify" />
       <item value="识别二维码" />
