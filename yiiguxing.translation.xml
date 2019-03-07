@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="未激活" />
+      <item value="unactive" />
       <item value="calculate" />
       <item value="cal" />
       <item value="mosaic" />
@@ -20,6 +22,11 @@
       <item value="flow chart" />
       <item value="flow" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
   </component>
   <component name="Settings">
     <option name="translator" value="ai.youdao" />
