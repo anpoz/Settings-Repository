@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="calculate" />
+      <item value="cal" />
       <item value="mosaic" />
       <item value="summary" />
       <item value="identify" />
