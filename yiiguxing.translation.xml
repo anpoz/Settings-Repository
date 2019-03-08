@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="attachment" />
+      <item value="attach" />
       <item value="未激活" />
       <item value="unactive" />
       <item value="calculate" />
