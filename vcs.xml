@@ -6,6 +6,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="anpoz@live.cn" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://dev.vanyun.cn:9000" />
+          <option name="userName" value="tony" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
