@@ -8,6 +8,11 @@
     </option>
     <option name="nativeLanguage" value="Chinese" />
     <option name="enabledSpellcheck" value="true" />
+    <option name="userWords">
+      <set>
+        <option value="auxi" />
+      </set>
+    </option>
     <option name="userDisabledRules">
       <set>
         <option value="PASSIVE_VOICE" />
